@@ -1,0 +1,5 @@
+- 👋 Hi, I’m chime simdee
+- 👀 I’m interested in collaborating and building world changing projects using various cloud technologies.
+- 🌱 I’m currently learning AWS, Azure, GCP,Terraform, Jenkins, Ansible,Docker,Kubernetes.
+- 💞️ I’m looking to collaborate on CI/CD, Containerization,Automation, Infrastructure as code.
+- 📫 How to reach me: cchisimdindu@gmail.com.
